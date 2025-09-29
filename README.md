@@ -137,4 +137,4 @@ https://daiyongg-kim.github.io/privacy-policies/the-daily-utils/
 1. **버전 관리**: Git을 통한 변경 이력 추적
 2. **백업**: GitHub에 자동 백업
 3. **협업**: 팀원과 함께 관리 가능
-4. **템플릿 활용**: 새 앱 추가 시 기존 구조 복사
+4. **템Screenshot 2025-09-29 at 11.12.14 AM플릿 활용**: 새 앱 추가 시 기존 구조 복사
